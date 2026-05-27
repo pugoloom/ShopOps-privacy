@@ -55,4 +55,4 @@ Users own and control their Drive and Sheets data. A user can review, export, mo
 
 ## Contact
 
-Before publication, the developer must replace this line with the publicly monitored support email address shown on the Chrome Web Store listing and hosted privacy policy page.
+For privacy or support questions, contact: pugoloom@gmail.com
