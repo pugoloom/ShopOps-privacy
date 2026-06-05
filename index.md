@@ -31,7 +31,7 @@ ShopOps uses data only to:
 
 ## Storage And Transfers
 
-Business records are stored in the user's own Google Drive and Google Sheets. The installed extension stores the signed-in email address and active workspace metadata in Chrome local storage.
+Business records are stored in the user's own Google Drive and Google Sheets. The installed extension stores the signed-in email address and active workspace metadata in Chrome local storage for convenience. ShopOps also stores workspace metadata in its hidden `_internal_config` sheet so the same Google account can reconnect to existing ShopOps files after reinstalling the extension.
 
 ShopOps communicates with Google APIs over HTTPS to perform the user-facing features described above. The current extension does not transmit business records to a ShopOps-operated server and does not include third-party analytics or advertising services.
 
